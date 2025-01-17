@@ -1,0 +1,48 @@
+<!-- Inici del document -->
+<!-- Etiqueta que identifica el document xml la seva versió i codificació -->
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Etiqueta de obertura botigaordinadors que conté els ordinadors -->
+<botigaordinadors>
+    <!-- Etiqueta de obertura ordinador amb un codi i categoria, i conté els dades del primer ordinador -->
+    <ordinador codi="R2309321A" categoria="portàtil">
+        <!-- Nom del primer ordinador -->
+        <nom>Lenovo IdeaPad Slim 3</nom>
+        <!-- Descripció del primer ordinador -->
+        <descripcio>15.6" FullHD, Intel® Core™ i5-12450H, 16GB RAM, 512GB SSD, UHD Graphics, Windows 11 Home</descripcio>
+        <!-- Color del primer ordinador -->
+        <color>Gris núvol</color>
+        <!-- Preu del primer ordinador -->
+        <preu>549,00€</preu>
+        <!-- Descompte del primer ordinador -->
+        <descompte>10%</descompte>
+        <!-- Garantia del primer ordinador -->
+        <garantia>3 anys</garantia>
+        <!-- Disponibilitat del primer ordinador -->
+        <disponibilitat>50</disponibilitat>
+        <!-- Imatge del primer ordinador -->
+        <imatge url="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_130131339?x=536&y=402&format=jpg&quality=80&sp=yes&strip=yes&trim&ex=536&ey=402&align=center&resizesource&unsharp=1.5x1+0.7+0.02&cox=0&coy=0&cdx=536&cdy=402"></imatge>
+    </ordinador>
+    <!-- Etiqueta de tancament del primer ordinador -->
+    <!-- Etiqueta de obertura ordinador amb un codi i categoria, i conté els dades del segon ordinador -->
+    <ordinador codi="M7493021F" categoria="sobretaula">
+        <!-- Nom del segon ordinador -->
+        <nom>HP 27-cr0045ns</nom>
+        <!-- Descripció del segon ordinador -->
+        <descripcio>27" Full HD, AMD Ryzen™ 5 7520U, 16 GB RAM, 512 GB SSD, Gráficos AMD Radeon™, Windows 11 H, Blanco</descripcio>
+        <!-- Color del segon ordinador -->
+        <color>Negre</color>
+        <!-- Preu del segon ordinador -->
+        <preu>699,00€</preu>
+        <!-- Descompte del segon ordinador -->
+        <descompte>5%</descompte>
+        <!-- Garantia del segon ordinador -->
+        <garantia>5 anys</garantia>
+        <!-- Disponibilitat del segon ordinador -->
+        <disponibilitat>10</disponibilitat>
+        <!-- Imatge del segon ordinador -->
+        <imatge url="https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_135048752?x=536&y=402&format=jpg&quality=80&sp=yes&strip=yes&trim&ex=536&ey=402&align=center&resizesource&unsharp=1.5x1+0.7+0.02&cox=0&coy=0&cdx=536&cdy=402"></imatge>
+    </ordinador>
+    <!-- Etiqueta de tancament del segon ordinador -->
+</botigaordinadors>
+<!-- Etiqueta de tancament botigaordinadors -->
+<!-- Final del document -->
