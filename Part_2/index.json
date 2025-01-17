@@ -25,7 +25,7 @@
                     "currency": "$",
                     "value": 1949
                 },
-                "slogan": "We' ve proposed 2 slogans: 'Slimbook Titan: Unleash Power in Every Pixel', 'Slimbook Titan: Powerhouse Performance'"
+                "slogan": "We' ve proposed 2 slogans: 'Slimbook Titan: Unleash Power in Every Pixel' OR 'Slimbook Titan: Powerhouse Performance'"
             },
             {
                 "type": "tablet",
@@ -36,7 +36,7 @@
                 "price": {
                     "currency": "€"
                 },
-                "characteristics": null
+                "characteristics": []
             },
             {
                 "type": "smartphone",
